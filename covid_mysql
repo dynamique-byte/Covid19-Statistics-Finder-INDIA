@@ -1,0 +1,9 @@
+create database covid_stats;
+show databases;
+use covid_stats;
+CREATE TABLE covid_data(
+    Location varchar(255),
+    Active_Cases int,
+    Recovered int,
+    Deaths int
+);
