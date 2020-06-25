@@ -7,3 +7,5 @@ CREATE TABLE covid_data(
     Recovered int,
     Deaths int
 );
+
+**use link mentioned in readme for insertion in data in datable
