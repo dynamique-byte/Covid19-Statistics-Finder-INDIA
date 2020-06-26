@@ -9,3 +9,5 @@ CREATE TABLE covid_data(
 );
 
 **use link mentioned in readme for insertion in data in datable
+INSERT INTO db_name.table_name(col1_name,col2_name......coln_name)
+Values(v1,v2..............vn);
