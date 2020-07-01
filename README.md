@@ -1,9 +1,11 @@
 # Covid19: Covid Statistic in India
 
   https://www.google.com/search?client=ubuntu&channel=fs&q=covid+stats+india&ie=utf-8&oe=utf-8
+  
   We have shared the codes and links for different ubuntu version (>=Ubuntu 18.0 and ubuntu 19.05<=) 
 
 # Objective: Interfacing MySQL Connector/C++ with the Qt Framework for Mysql Databases.
+
 # Why? 
 
 MySQL Connector/C++ is an object-oriented database API library to work with MySQL database and C++.The API is partly built upon the JDBC 4.0 API specification.         As a result, the C++ class names and functional interfaces are same as we use in JDBC programming in Java. 
@@ -18,7 +20,9 @@ But, Qt is perhaps the best among them. The library is simple to implement and c
 Following tools to go hands-on with the following code.The underlying platform for confriguration & settings used here is Linux: 
 
    1.MySQL Database
+   
    2.MySQL Connector/C++
+   
    3.Qt5 Framework with QtCreator
 
 # Advantages:
@@ -26,8 +30,11 @@ Following tools to go hands-on with the following code.The underlying platform f
 From a programmer's point of view, the key benefits of using MySQL Connector/C++ over native API library are as follows:
    
    1.The API is built to support a Object-Oriented paradigm; therefore, C-style function calls are not required.
+   
    2.JDBC 4.0 is an industry standard specification; the MySQL Connector/C++ API is based on this architecture.
+   
    3.The evolution of the API will be consistent with industry standards.
+   
    4.The API is simple and intuitive.
 
   5.The Qt C++ Framework,a masterpiece work pioneered by Haavard and Eirik,in its present form, has developed a chain of toolkits to suffice almost every need of    the developer and has become one of the most versatile frameworks in the C++ arena.
