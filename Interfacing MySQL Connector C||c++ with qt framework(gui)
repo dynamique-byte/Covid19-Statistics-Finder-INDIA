@@ -13,5 +13,3 @@
          2. Covid_stats_Controller class that acts as a controller and contains the business logic.(Covid_stats_Controller.h + Covid_stats_Controller.cpp)
          3. The display view(gui) is provided by the Qt widget class.(widget.h + widget.cpp)
          3. The underlying database is MySQL and the interfacing role play between the database and C++ classes is done by MySQL Connector/C++. That's all!
-
-
