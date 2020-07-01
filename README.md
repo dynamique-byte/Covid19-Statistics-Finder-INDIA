@@ -15,21 +15,23 @@ But, Qt is perhaps the best among them. The library is simple to implement and c
 
 # Phases of our proposed work: 
 
-Following tools to go hands-on with the following code.
-The underlying platform used here is Linux. So, the configuration and settings will be shown based on the Linux platform only:
+Following tools to go hands-on with the following code.The underlying platform for confriguration & settings used here is Linux: 
+
    1.MySQL Database
    2.MySQL Connector/C++
    3.Qt5 Framework with QtCreator
 
-# Advantages
+# Advantages:
 
 From a programmer's point of view, the key benefits of using MySQL Connector/C++ over native API library are as follows:
+   
+   1.The API is built to support a Object-Oriented paradigm; therefore, C-style function calls are not required.
+   2.JDBC 4.0 is an industry standard specification; the MySQL Connector/C++ API is based on this architecture.
+   3.The evolution of the API will be consistent with industry standards.
+   4.The API is simple and intuitive.
 
-    The API is built to support a Object-Oriented paradigm; therefore, C-style function calls are not required.
-    JDBC 4.0 is an industry standard specification; the MySQL Connector/C++ API is based on this architecture.
-    The evolution of the API will be consistent with industry standards.
-    The API is simple and intuitive.
+  5.The Qt C++ Framework,a masterpiece work pioneered by Haavard and Eirik,in its present form, has developed a chain of toolkits to suffice almost every need of    the developer and has become one of the most versatile frameworks in the C++ arena.
 
-The Qt C++ Framework needs no introduction. It is a masterpiece work pioneered by Haavard and Eirik. In its present form, Qt has developed a chain of toolkits to suffice almost every need of the developer and has become one of the most versatile frameworks in the C++ arena. It is an excellent framework for building cross-platform C++ applications; it can be ported to all major platforms available in the market. Apart from supporting many other languages, Qt is extensively used for embedded application development.
+  6.It is an excellent framework for building cross-platform C++ applications; it can be ported to all major platforms available in the market. Apart from supporting many other languages, Qt is extensively used for embedded application development.
 
-Hence here, we focus on going hands-on to create a MySQL database application with a Qt interface.That's all!!!
+# Hence here, we focus on going hands-on to create a MySQL database application with a Qt interface.That's all!!!
