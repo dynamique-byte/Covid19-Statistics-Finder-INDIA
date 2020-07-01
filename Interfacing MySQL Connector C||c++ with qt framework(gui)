@@ -1,0 +1,17 @@
+##Prerequisites:
+    Need the following tools to go hands-on with the following code.
+    The underlying platform used here is Linux.So,the configuration and settings will be shown based on the Linux platform only.
+
+    1.MySQL Database
+    2.MySQL Connector/C++
+    3.Qt5 Framework with QtCreator
+    
+##Conceptual design of the application:-
+##Project Overview
+
+         1. Covid_stats class that acts as a model.(Covid_stats.h + Covid_stats.cpp)
+         2. Covid_stats_Controller class that acts as a controller and contains the business logic.(Covid_stats_Controller.h + Covid_stats_Controller.cpp)
+         3. The display view(gui) is provided by the Qt widget class.(widget.h + widget.cpp)
+         3. The underlying database is MySQL and the interfacing role play between the database and C++ classes is done by MySQL Connector/C++. That's all!
+
+
