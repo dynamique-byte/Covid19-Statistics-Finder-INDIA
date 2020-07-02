@@ -25,13 +25,10 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += \
         main.cpp \
-        covid_main.cpp \
-    covid_mainwin.cpp
+        covid_main.cpp
 
 HEADERS += \
-        covid_main.h \
-    covid_mainwin.h
+        covid_main.h
 
 FORMS += \
-        covid_main.ui \
-    covid_mainwin.ui
+        covid_main.ui

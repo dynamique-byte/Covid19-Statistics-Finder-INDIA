@@ -1,6 +1,6 @@
 #ifndef COVID_MAIN_H
 #define COVID_MAIN_H
-
+#include<QString>
 #include <QMainWindow>
 #include<QtSql>
 #include<QSqlDatabase>
