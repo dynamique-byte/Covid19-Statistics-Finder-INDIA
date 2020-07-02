@@ -42,3 +42,5 @@ From a programmer's point of view, the key benefits of using MySQL Connector/C++
   6.It is an excellent framework for building cross-platform C++ applications; it can be ported to all major platforms available in the market. Apart from supporting many other languages, Qt is extensively used for embedded application development.
 
 # Hence here, we focus on going hands-on to create a MySQL database application with a Qt interface.That's all!!!
+
+**you can view the final output gui video in output file in this project(above)**
